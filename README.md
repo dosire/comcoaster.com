@@ -1,4 +1,4 @@
 comcoaster.com
 ==============
 
-Comcoaster website (public repo)
+Comcoaster website (use gh-pages branch)
